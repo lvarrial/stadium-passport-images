@@ -2451,3 +2451,682 @@ _Generated automatically — do not edit by hand._
 | `att-stadium-0.jpg` | Michael Barera | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Arlington_June_2020_4_(AT%26T_Stadium).jpg) |
 | `att-stadium-1.jpg` | Michael Barera | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Arlington_June_2020_2_(AT%26T_Stadium).jpg) |
 | `att-stadium-2.jpg` | Michael Barera | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Arlington_June_2020_3_(AT%26T_Stadium).jpg) |
+
+## Estadio Atanasio Girardot  `estadio-atanasio-girardot`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-atanasio-girardot-0.jpg` | SajoR | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Atanasio_Girardot-Medellin.JPG) |
+| `estadio-atanasio-girardot-1.jpg` | Atanacio_girardot_antes_de_la_apertura_de_los_juegos.jpg: Juan Felipe Villegas derivative work: Santirom (talk) | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:UD_Atanasio_Girardot.jpg) |
+| `estadio-atanasio-girardot-2.jpg` | Universidad EAFIT from Colombia Uploaded by OAlexander | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Atanasio_Girardot_-_Inauguraci%C3%B3n.jpg) |
+
+## Estadio Metropolitano Roberto Meléndez  `estadio-metropolitano-barranquilla`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-metropolitano-barranquilla-0.jpg` | Mkstillo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Metropolitano_de_Baranquilla_2011.jpg) |
+| `estadio-metropolitano-barranquilla-1.jpg` | Alfonso jose parejo muñoz | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Metropolitano_de_Barranquilla_02.jpg) |
+| `estadio-metropolitano-barranquilla-2.jpg` | Alfonso jose parejo muñoz | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Metropolitano_de_Barranquilla_04.jpg) |
+
+## Estadio Campeón del Siglo  `estadio-campeon-del-siglo`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-campeon-del-siglo-0.jpg` | Jimmy Baikovicius from Montevideo, Uruguay | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Campe%C3%B3n_del_Siglo_-_160330-5970-jikatu_(25541955994).jpg) |
+| `estadio-campeon-del-siglo-1.jpg` | Jimmy Baikovicius from Montevideo, Uruguay | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Fiesta_Inauguraci%C3%B3n_Estadio_Campe%C3%B3n_del_Siglo_-_160330-6021-jikatu_(26094346721).jpg) |
+| `estadio-campeon-del-siglo-2.jpg` | Jimmy Baikovicius from Montevideo, Uruguay | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Fiesta_Inauguraci%C3%B3n_Estadio_Campe%C3%B3n_del_Siglo_-_160331-9524-jikatu_(25570904524).jpg) |
+
+## Gran Parque Central  `gran-parque-central`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `gran-parque-central-0.jpg` | Unknown authorUnknown author | [Public domain](#) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Gran_Parque_Central,_Estadio,_1944-06-02_(71)_01.jpg) |
+| `gran-parque-central-1.jpg` | Unknown authorUnknown author | [Public domain](#) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Gran_Parque_Central,_Estadio,_1944-06-02_(71)_02.jpg) |
+| `gran-parque-central-2.jpg` | YonytecuentoCNF | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Gran_Parque_Central_2022.jpg) |
+
+## Estadio Monumental de Lima  `estadio-monumental-lima`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-monumental-lima-0.jpg` | MonumentalLima1.jpg: Chalisimo5 derivative work: MicroX (talk) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Monumental_Lima.jpg) |
+| `estadio-monumental-lima-1.jpg` | Sigloestadio21 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Monumental_2021.jpg) |
+| `estadio-monumental-lima-2.jpg` | Capomo81 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_monumental_lima.jpg) |
+
+## Estadio Alejandro Villanueva  `estadio-alejandro-villanueva`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-alejandro-villanueva-0.jpg` | Carlos Pozo Albirena | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_Estadio_Alejandro_Villanueva_2023.jpg) |
+| `estadio-alejandro-villanueva-1.jpg` | Alianzaperu | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Alianza_Lima_2008.jpg) |
+| `estadio-alejandro-villanueva-2.jpg` | Usuarioeditor9 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Alianza2022.jpg) |
+
+## Estadio Monumental Banco Pichincha  `estadio-monumental-guayaquil`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-monumental-guayaquil-0.jpg` | Murray Foubister | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Monumental_Banco_Pichincha.jpg) |
+| `estadio-monumental-guayaquil-1.jpg` | WRAO | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Monumental_de_Barcelona.jpg) |
+| `estadio-monumental-guayaquil-2.jpg` | Phenomenal32 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Isidro_Romero_Carbo_2021.jpg) |
+
+## Estadio George Capwell  `estadio-george-capwell`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-george-capwell-0.jpg` | Agencia de Noticias ANDES | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:ESTADIO_CAPWELL_1.jpg) |
+| `estadio-george-capwell-1.jpg` | Agencia de Noticias ANDES | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:ESTADIO_CAPWELL_(31978863013).jpg) |
+| `estadio-george-capwell-2.jpg` | Agencia de Noticias ANDES | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:ESTADIO_CAPWELL_(32793279605).jpg) |
+
+## Estadio General Pablo Rojas  `estadio-la-nueva-olla`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-la-nueva-olla-0.jpg` | Frank Ballesteros | [Public domain](#) | [Commons](https://commons.wikimedia.org/wiki/File:Laolla.jpg) |
+| `estadio-la-nueva-olla-1.jpg` | Jamedenp | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_General_Pablo_Rojas.jpg) |
+| `estadio-la-nueva-olla-2.jpg` | Ovetense39 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Vista_exterior_del_Estadio_General_Pablo_Rojas_en_el_2020.jpg) |
+
+## Estadio Monumental de Maturín  `estadio-monumental-maturin`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-monumental-maturin-0.jpg` | Josman Suarez | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Monumental_de_Matur%C3%ADn.2.jpg) |
+| `estadio-monumental-maturin-1.jpg` | Own work | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Monumental_de_maturin_3.jpg) |
+| `estadio-monumental-maturin-2.jpg` | Josman Suarez | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Panoramica_del_Estadio_Monumental_de_Matur%C3%ADn.jpg) |
+
+## Estádio Nacional Mané Garrincha  `estadio-nacional-mane-garrincha`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-nacional-mane-garrincha-0.png` | Snayderfox | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_Nacional_Man%C3%A9_Garrincha.png) |
+| `estadio-nacional-mane-garrincha-1.jpg` | Túllio F | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_Nacional_de_Bras%C3%ADlia_Man%C3%A9_Garrincha_-_Bras%C3%ADlia_02.jpg) |
+| `estadio-nacional-mane-garrincha-2.jpg` | Túllio F | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_Nacional_de_Bras%C3%ADlia_Man%C3%A9_Garrincha_-_Bras%C3%ADlia_01.jpg) |
+
+## Estadio San Carlos de Apoquindo  `estadio-san-carlos-de-apoquindo`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-san-carlos-de-apoquindo-0.jpg` | Rzt 7 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:San_Carlos_de_Apoquindo_en_remodelaci%C3%B3n_Foto_1.jpg) |
+| `estadio-san-carlos-de-apoquindo-1.jpg` | Carlos yo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_San_Carlos_de_Apoquindo_2010.JPG) |
+| `estadio-san-carlos-de-apoquindo-2.jpg` | Carlos yo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_San_Carlos_de_Apoquindo_2010_2.JPG) |
+
+## Estadi Ciutat de València  `estadi-ciutat-de-valencia`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadi-ciutat-de-valencia-0.jpg` | Francesc Fort | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadi_Ciutat_de_Val%C3%A8ncia_-_nocturna.jpg) |
+| `estadi-ciutat-de-valencia-1.jpg` | https://www.flickr.com/photos/funky1opti/with/4375009283/ | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Ciutat_de_Val%C3%A8ncia_fuera.jpg) |
+| `estadi-ciutat-de-valencia-2.jpg` | Francesc Fort | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadi_Ciutat_de_Val%C3%A8ncia_interior.jpg) |
+
+## Estadio Manuel Martínez Valero  `estadio-martinez-valero`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-martinez-valero-0.jpg` | _unknown_ | [GPL](http://www.gnu.org/licenses/gpl.html) | [Commons](https://commons.wikimedia.org/wiki/File:Elche-Xerez.jpg) |
+| `estadio-martinez-valero-1.jpg` | Ruben Ortega | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Martinez_Valero,_banquillo.jpg) |
+| `estadio-martinez-valero-2.jpg` | José Carlos Díez | [Public domain](#) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Mart%C3%ADnezValero_Elche.jpg) |
+
+## Estadio Carlos Tartiere  `estadio-carlos-tartiere`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-carlos-tartiere-0.jpg` | Jsmq | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Municipal_Carlos_Tartiere_(Real_Oviedo_S.A.D.).jpg) |
+| `estadio-carlos-tartiere-1.jpg` | rsg | [CC BY-SA 2.5 es](https://creativecommons.org/licenses/by-sa/2.5/es/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Carlos_Tartiere_01.jpg) |
+| `estadio-carlos-tartiere-2.jpg` | NibasH | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Carlos_Tartiere_-_Oviedo_-_panoramio.jpg) |
+
+## Abanca-Riazor  `abanca-riazor`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `abanca-riazor-0.jpg` | Albert galiza | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_de_Riazor.A_Corunha.Galiza.jpg) |
+| `abanca-riazor-1.jpg` | Xcarlos4 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Alex_Berganti%C3%B1os_Real_Club_Deportivo_de_la_Coru%C3%B1a.jpg) |
+| `abanca-riazor-2.jpg` | Jenócrates | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadioriazor.jpg) |
+
+## Estadio El Sardinero  `el-sardinero`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `el-sardinero-0.jpg` | Emilio Gómez Fernández | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Fachada_oeste_Campos_de_Sport_de_El_Sardinero.jpg) |
+| `el-sardinero-1.jpg` | HOLOGUACHU | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_El_Sardinero.jpg) |
+| `el-sardinero-2.jpg` | Unknown (collection: Josep Thomas i Bigas, died 1910) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Camposdesport.jpg) |
+
+## Estadio Heliodoro Rodríguez López  `estadio-heliodoro-rodriguez-lopez`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-heliodoro-rodriguez-lopez-0.jpg` | Benjamín Núñez González | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_de_Tenerife,_Espa%C3%B1a,_2015.JPG) |
+| `estadio-heliodoro-rodriguez-lopez-1.jpg` | Mentxuwiki | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Heliodoro_Rodr%C3%ADguez_L%C3%B3pez.jpg) |
+| `estadio-heliodoro-rodriguez-lopez-2.jpg` | Edub | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:TenerifeRealSociedad08.jpg) |
+
+## Estadio Nuevo Arcángel  `estadio-nuevo-arcangel`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-nuevo-arcangel-0.jpg` | kallerna | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Nuevo_Arc%C3%A1ngel_C%C3%B3rdoba_(cropped).jpg) |
+| `estadio-nuevo-arcangel-1.jpg` | kallerna | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Nuevo_Arc%C3%A1ngel_C%C3%B3rdoba.jpg) |
+| `estadio-nuevo-arcangel-2.jpg` | Matt Churchill | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Cordoba_(15735599976).jpg) |
+
+## Estadio Cartagonova  `estadio-cartagonova`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-cartagonova-0.jpg` | 00matt00 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Cartagonova.JPG) |
+| `estadio-cartagonova-1.jpg` | P4K1T0 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_municipal_Cartagonova_(20230201_114045).jpg) |
+| `estadio-cartagonova-2.jpg` | Matías Soria | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Tribuna_Estadio_Cartagonova.JPG) |
+
+## Estadio Nueva Condomina  `estadio-nueva-condomina`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-nueva-condomina-0.jpg` | Fran García | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Nueva_Condomina_(Murcia)_Murcia_0_-_Elche_2.jpg) |
+| `estadio-nueva-condomina-1.jpg` | Fran García | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Nueva_Condomina_(Murcia)_Murcia_1_-_Elche_0.jpg) |
+| `estadio-nueva-condomina-2.jpg` | Sebasgs | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Nueva_Condomina.jpg) |
+
+## Estadio Municipal de Anduva  `estadio-municipal-de-anduva`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-municipal-de-anduva-0.jpg` | Zarateman | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Miranda_de_Ebro_-_Estadio_Municipal_de_Anduva_(CD_Mirand%C3%A9s)_07.jpg) |
+| `estadio-municipal-de-anduva-1.jpg` | Zarateman | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Miranda_de_Ebro_-_Estadio_Municipal_de_Anduva_(CD_Mirand%C3%A9s)_09.jpg) |
+| `estadio-municipal-de-anduva-2.jpg` | Zarateman | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Miranda_de_Ebro_-_Estadio_Municipal_de_Anduva_(CD_Mirand%C3%A9s)_06.jpg) |
+
+## Estadio Santo Domingo  `estadio-santo-domingo`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-santo-domingo-0.jpg` | El Corcón | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:AD_Alcorc%C3%B3n.jpg) |
+| `estadio-santo-domingo-1.jpg` | Pichu VI | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Alcorc%C3%B3n_Ontiyent.jpg) |
+| `estadio-santo-domingo-2.jpg` | Miguelazo84 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Alcorcon1-0Leganse.jpg) |
+
+## Estadio Reino de León  `estadio-reino-de-leon`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `estadio-reino-de-leon-0.jpg` | Zarateman | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Le%C3%B3n_-_Estadio_Municipal_Reino_de_Le%C3%B3n_2.jpg) |
+| `estadio-reino-de-leon-1.jpg` | Zarateman | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Le%C3%B3n_-_Estadio_Municipal_Reino_de_Le%C3%B3n_7.jpg) |
+| `estadio-reino-de-leon-2.jpg` | Zarateman | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Le%C3%B3n_-_Estadio_Municipal_Reino_de_Le%C3%B3n_3.jpg) |
+
+## King Baudouin Stadium  `king-baudouin-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `king-baudouin-stadium-0.jpg` | Antonio Zugaldia from Washington, D.C., United States | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:King_Baudouin_Stadium_2008.jpg) |
+| `king-baudouin-stadium-1.jpg` | Belgian man | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:King_Baudouin_Stadium_from_Atomium.JPG) |
+| `king-baudouin-stadium-2.jpg` | Belgian man | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Atomium_panorama_with_King_Baudouin_Stadium.JPG) |
+
+## Stade Maurice Dufrasne  `stade-maurice-dufrasne`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `stade-maurice-dufrasne-0.png` | Zergori | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Stade_de_Sclessin_before_a_match.png) |
+| `stade-maurice-dufrasne-1.jpg` | Vberger | [Public domain](#) | [Commons](https://commons.wikimedia.org/wiki/File:Standard_liege_kaerjeng02.jpg) |
+| `stade-maurice-dufrasne-2.jpg` | Vberger | [Public domain](#) | [Commons](https://commons.wikimedia.org/wiki/File:Standard_liege_kaerjeng01.jpg) |
+
+## Ghelamco Arena  `ghelamco-arena`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `ghelamco-arena-0.jpg` | Gunther Vermeulen | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Ghelamco_Arena_panorama_indoor..jpg) |
+| `ghelamco-arena-1.jpg` | nl:User:LimoWreck | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [Commons](https://commons.wikimedia.org/wiki/File:Gent_-_Knooppunt_Gent-Centrum.jpg) |
+| `ghelamco-arena-2.jpg` | Paul Hermans | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Gent_Ghelamco_Arena_panorama.jpg) |
+
+## Vasil Levski National Stadium  `vasil-levski-national-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `vasil-levski-national-stadium-0.jpg` | Bin im Garten | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Vasil_Levski_National_Stadium_in_Sofia_Entrance_area_2012_PD_06.jpg) |
+| `vasil-levski-national-stadium-1.jpg` | Bin im Garten | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Vasil_Levski_National_Stadium_in_Sofia_Entrance_area_2012_PD_03.jpg) |
+| `vasil-levski-national-stadium-2.jpg` | Bin im Garten | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Vasil_Levski_National_Stadium_in_Sofia_Entrance_area_2012_PD_05.jpg) |
+
+## Stadion Stožice  `stadion-stozice`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `stadion-stozice-0.jpg` | The Stadium Guide | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Sto%C5%BEice_(31296599020).jpg) |
+| `stadion-stozice-1.jpg` | The Stadium Guide | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Sto%C5%BEice_(31669023965).jpg) |
+| `stadion-stozice-2.jpg` | The Stadium Guide | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Sto%C5%BEice_(31523159192).jpg) |
+
+## Boris Paichadze Dinamo Arena  `dinamo-arena`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `dinamo-arena-0.jpg` | DJMX | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Tbilisi_Boris_Paichadze_Dinamo_Arena_1.jpg) |
+| `dinamo-arena-1.jpg` | DJMX | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Tbilisi_Boris_Paichadze_Dinamo_Arena_3.jpg) |
+| `dinamo-arena-2.jpg` | DJMX | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Tbilisi_Boris_Paichadze_Dinamo_Arena_6.jpg) |
+
+## Pittodrie Stadium  `pittodrie-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `pittodrie-stadium-0.jpg` | Lizzie | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Pittodrie_Stadium,_Aberdeen_-_geograph.org.uk_-_12610.jpg) |
+| `pittodrie-stadium-1.jpg` | Chris Downer | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Aberdeen,_Pittodrie_Stadium_-_geograph.org.uk_-_598024.jpg) |
+| `pittodrie-stadium-2.jpg` | Braveheart | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Pittodrie_Stadium,_Aberdeen_03.jpg) |
+
+## Tynecastle Park  `tynecastle-park`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `tynecastle-park-0.jpg` | Paul Henery | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Tynecastle_Park,_January_2018.jpg) |
+| `tynecastle-park-1.jpg` | Thomas Nugent | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Tynecastle_Stadium_-_geograph.org.uk_-_3057889.jpg) |
+| `tynecastle-park-2.jpg` | Graeme Yuill | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Tynecastle_Stadium_-_geograph.org.uk_-_3754231.jpg) |
+
+## Cairo International Stadium  `cairo-international-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `cairo-international-stadium-0.jpg` | Crosskimo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Cairo_stadium_Egypt_vs_Senegal.jpg) |
+| `cairo-international-stadium-1.jpg` | The original uploader was Realman208 at English Wikipedia. | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Cairo_International_Stadium.jpg) |
+| `cairo-international-stadium-2.jpg` | Crosskimo | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Cairo_Stadium_Afcon_u23_2019.jpg) |
+
+## Stade du 5 Juillet 1962  `stade-5-juillet-1962`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `stade-5-juillet-1962-0.jpg` | Billal Haddadi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Stade_5_Juillet_1962.jpg) |
+| `stade-5-juillet-1962-1.jpg` | Tinzaouaten | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Stade_du_5_juillet-Alg%C3%A9rie.jpg) |
+| `stade-5-juillet-1962-2.jpg` | FOTO:Fortepan — ID 100571: Adományozó/Donor: Ormos Imre Alapítvány. archive copy at the Wayback Machine | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Olimpiai_Komplexum,_szemben_az_1962._j%C3%BAlius_5.-e_Stadion._Fortepan_100571.jpg) |
+
+## Stade Olympique de Radès  `stade-olympique-de-rades`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `stade-olympique-de-rades-0.jpg` | Photo taken by Anja S. in Radès Stadium for DrFO.Jr.Tn | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:CA_-_Rad%C3%A8s.jpg) |
+| `stade-olympique-de-rades-1.jpg` | Nasreddine Nas'h | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Rad%C3%A8s_Olympic_stadium.jpg) |
+| `stade-olympique-de-rades-2.jpg` | khaled abdelmoumen | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:STADE_DE_RADES.jpg) |
+
+## Moshood Abiola National Stadium  `moshood-abiola-national-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `moshood-abiola-national-stadium-0.jpg` | Kritzolina | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Abuja_Stadium_02.jpg) |
+| `moshood-abiola-national-stadium-1.jpg` | Musa Vacho77 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Mashood_Abiola_National_Stadium_03.jpg) |
+| `moshood-abiola-national-stadium-2.jpg` | Jeff Attaway | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Abuja_Stadium_6.jpg) |
+
+## Stade Alassane Ouattara  `stade-alassane-ouattara`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `stade-alassane-ouattara-0.jpg` | AZIMIE | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Stade_Alassane_Ouattara_d%27Ebimp%C3%A9_3.jpg) |
+| `stade-alassane-ouattara-1.jpg` | Aforafor33 | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Supporteur_ivoirien_lors_de_la_c%C3%A9r%C3%A9monie_d%27ouverture_de_la_CAN_23.jpg) |
+| `stade-alassane-ouattara-2.jpg` | U.S. Department of State | [Public domain](#) | [Commons](https://commons.wikimedia.org/wiki/File:Secretary_Blinken_Attends_C%C3%B4te_d%E2%80%99Ivoire-Equatorial_Guinea_Men%E2%80%99s_Africa_Cup_of_Nations_Match_-_53480882963.jpg) |
+
+## Stade Paul Biya  `stade-paul-biya`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `stade-paul-biya-0.jpg` | Kondah | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Stade_Omnisports_Paul_Biya,_Olemb%C3%A9,_Yaound%C3%A9.jpg) |
+| `stade-paul-biya-1.jpg` | Nana Padrino | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Construction_of_Paul_Biya_Stadium._Yaound%C3%A9,_Cameroon._DJI_00331.jpg) |
+| `stade-paul-biya-2.jpg` | Jeanpierrekepseu | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Ouverture_CAN_(7).jpg) |
+
+## Baba Yara Stadium  `baba-yara-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `baba-yara-stadium-0.jpg` | Michael Schubert | [Public domain](#) | [Commons](https://commons.wikimedia.org/wiki/File:Baba_Yara_Sports_Stadium_in_Kumasi.jpg) |
+| `baba-yara-stadium-1.jpg` | Ghassan Mroue | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Kumasi_Stadium_Entrance_-_panoramio.jpg) |
+| `baba-yara-stadium-2.jpg` | Ina96 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Kumasi924.JPG) |
+
+## Stade des Martyrs  `stade-des-martyrs`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `stade-des-martyrs-0.jpg` | Antoine Moens de Hase | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Stade_des_martyrs_0332_Kinshasa_(8756673901).jpg) |
+| `stade-des-martyrs-1.jpg` | The original uploader was Vberger at English Wikipedia. | [Public domain](#) | [Commons](https://commons.wikimedia.org/wiki/File:Martyrs_stadium.jpg) |
+| `stade-des-martyrs-2.jpg` | Vberger at French Wikipedia | [Public domain](#) | [Commons](https://commons.wikimedia.org/wiki/File:Stade_des_Martyrs01.jpg) |
+
+## Benjamin Mkapa Stadium  `benjamin-mkapa-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `benjamin-mkapa-stadium-0.jpg` | Raidarmax | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Tanzania_National_Main_Stadium_Aerial.jpg) |
+| `benjamin-mkapa-stadium-1.jpg` | Mxcarter | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:UwanjaWaTaifaTanzania.jpg) |
+| `benjamin-mkapa-stadium-2.jpg` | Mighty Travels | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Tanzania_National_Main_Stadium.jpg) |
+
+## Cape Town Stadium  `cape-town-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `cape-town-stadium-0.jpg` | South African Tourism from South Africa | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Green_Point_Stadium_-_South_Africa_(4029380846).jpg) |
+| `cape-town-stadium-1.jpg` | Deklerk Basson dkbasson | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Cape_Town_Stadium,_Cape_Town,_South_Africa_(Unsplash).jpg) |
+| `cape-town-stadium-2.jpg` | Winstonza | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Cape_Town_Stadium_wza2.jpg) |
+
+## Moses Mabhida Stadium  `moses-mabhida-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `moses-mabhida-stadium-0.jpg` | South African Tourism from South Africa | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Moses_Mabhida_Stadium,_Durban,_KwaZulu-Natal,_South_Africa_(19890567824).jpg) |
+| `moses-mabhida-stadium-1.jpg` | South African Tourism from South Africa | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Moses_Mabhida_Stadium,_Durban,_KwaZulu_Natal,_South_Africa_(20519302751).jpg) |
+| `moses-mabhida-stadium-2.jpg` | South African Tourism from South Africa | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Moses_Mabhida_Stadium,_Durban,_KwaZulu_Natal,_South_Africa_(20513002075).jpg) |
+
+## Azadi Stadium  `azadi-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `azadi-stadium-0.jpg` | Mahdi Zare/Fars News Agency | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Azadi_Stadium_ACL_2018.jpg) |
+| `azadi-stadium-1.jpg` | Kayhan INC (Tehran) | [Public domain](#) | [Commons](https://commons.wikimedia.org/wiki/File:Taj_vs._Persepolis,_Aryamehr_Stadium,_Tehran,_Persia,_May_1975.jpg) |
+| `azadi-stadium-2.jpg` | Hosseini, Zohrvand, Ashtari/Tasnim | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Persepolis_fans_at_Azadi_Stadium_1396.jpg) |
+
+## Beijing National Stadium  `beijing-national-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `beijing-national-stadium-0.jpg` | Peter23 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Beijing_national_stadium.jpg) |
+| `beijing-national-stadium-1.jpg` | CEphoto, Uwe Aranas | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Beijing_China_Beijing-National-Stadium-01.jpg) |
+| `beijing-national-stadium-2.jpg` | CEphoto, Uwe Aranas | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Beijing_China_Beijing-National-Stadium-03.jpg) |
+
+## Saitama Stadium 2002  `saitama-stadium-2002`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `saitama-stadium-2002-0.jpg` | Ocdp | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Saitama_stadium2002-1.jpg) |
+| `saitama-stadium-2002-1.jpg` | craz1230 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Saitama_Stadium_2002_-_panoramio.jpg) |
+| `saitama-stadium-2002-2.jpg` | Ocdp | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Saitama_stadium2002-2.jpg) |
+
+## King Abdullah Sports City  `king-abdullah-sports-city`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `king-abdullah-sports-city-0.jpg` | saudipics | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Jawhara_Stadium.jpg) |
+| `king-abdullah-sports-city-1.jpg` | Suliman Al-Kurishan from Unaizah , Saudi Arabia | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:King_Abdullah_Sport_City_Stadium_A.jpg) |
+| `king-abdullah-sports-city-2.jpg` | Qrmoo3 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:King_Abdullah_Sport_City_Stadium_2017_by_Qrmoo3.jpg) |
+
+## Gelora Bung Karno Stadium  `gelora-bung-karno-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `gelora-bung-karno-stadium-0.jpg` | RasyaAbhirama13 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Gelora_Bung_Karno_Main_Stadium_interior.jpg) |
+| `gelora-bung-karno-stadium-1.jpg` | RasyaAbhirama13 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Gelora_Bung_Karno_Main_Stadium_VIP_and_VVIP_Tribune.jpg) |
+| `gelora-bung-karno-stadium-2.jpg` | Gunawan Kartapranata | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Gelora_Bung_Karno_Stadium,_Asia_Cup_2007.jpg) |
+
+## Bukit Jalil National Stadium  `bukit-jalil-national-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `bukit-jalil-national-stadium-0.jpg` | Phalinn Ooi | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg) |
+| `bukit-jalil-national-stadium-1.jpg` | PeaceSeekers | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Tugu_keris_Stadium_Nasional_Bukit_Jalil.jpg) |
+| `bukit-jalil-national-stadium-2.jpg` | *angys* | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_panoramic_(220713).jpg) |
+
+## Rajamangala Stadium  `rajamangala-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `rajamangala-stadium-0.jpg` | Pittaya Sroilong from Bangkok, Thailand | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Rajamangala_Stadium_Panorama.jpg) |
+| `rajamangala-stadium-1.jpg` | AsianFC | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Rajamangala_Stadium_in_Bangkok.jpg) |
+| `rajamangala-stadium-2.jpg` | U.S. Marine Corps photo by Cpl. Robert J. Maurer | [Public domain](#) | [Commons](https://commons.wikimedia.org/wiki/File:Flood_shelter_at_Rajamangala_Stadium,_Bangkok,_Thailand,_October_2011.jpg) |
+
+## Zayed Sports City Stadium  `zayed-sports-city-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `zayed-sports-city-stadium-0.jpg` | Валерий Дед | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Zayed_Sports_City_Stadium_2.jpg) |
+| `zayed-sports-city-stadium-1.jpg` | Валерий Дед | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Zayed_Sports_City_Stadium_4.jpg) |
+| `zayed-sports-city-stadium-2.jpg` | Валерий Дед | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Zayed_Sports_City_Stadium_1.jpg) |
+
+## Basra International Stadium  `basra-international-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `basra-international-stadium-0.jpg` | Yesar Al-Maleki | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Basra_International_Stadium_Opening_2.JPG) |
+| `basra-international-stadium-1.jpg` | Taha9009 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Basra_International_Stadium_with_I_Love_Basra_sign_2026.jpg) |
+| `basra-international-stadium-2.jpg` | Yesar Al-Maleki | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Basra_International_Stadium_Opening.JPG) |
+
+## Vivekananda Yuba Bharati Krirangan  `salt-lake-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `salt-lake-stadium-0.jpg` | Vinayaraj | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Salt_Lake_Stadium,_Vivekananda_Yuba_Bharati_Krirangan_(VYBK)-_Kolkata_-_IRCTC_2017_(15).jpg) |
+| `salt-lake-stadium-1.jpg` | Vinayaraj | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Salt_Lake_Stadium,_Vivekananda_Yuba_Bharati_Krirangan_(VYBK)-_Kolkata_-_IRCTC_2017_(27).jpg) |
+| `salt-lake-stadium-2.jpg` | Vinayaraj | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Salt_Lake_Stadium,_Vivekananda_Yuba_Bharati_Krirangan_(VYBK)-_Kolkata_-_IRCTC_2017_(41).jpg) |
+
+## Milliy Stadium  `milliy-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `milliy-stadium-0.jpg` | Umarxon III | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bunyodkor_Stadium,_Tashkent,_Uzbekistan.jpg) |
+| `milliy-stadium-1.jpg` | Umarxon III | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Bunyodkor_Stadium_in_Tashkent_2.jpg) |
+| `milliy-stadium-2.jpg` | Umarxon III | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Elevator_in_Bunyodkor_Stadium,_Tashkent.jpg) |
+
+## Japan National Stadium  `japan-national-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `japan-national-stadium-0.jpg` | Arne Müseler | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:New_national_stadium_tokyo_1.jpg) |
+| `japan-national-stadium-1.jpg` | Dick Thomas Johnson from Tokyo, Japan | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Japan_National_Stadium_Tokyo_2020_Olympics_(51481561365).jpg) |
+| `japan-national-stadium-2.jpg` | Syced | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:2024_April_7,_FC_Tokyo_wins_over_Kashima_Antlers,_at_the_Japan_National_Stadium_15.jpg) |
+
+## Baku Olympic Stadium  `baku-olympic-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `baku-olympic-stadium-0.jpg` | Eminn | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Baku_Olympic_Stadium_panorama_1.JPG) |
+| `baku-olympic-stadium-1.jpg` | Eminn | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Baku_Olympic_Stadium_panorama_2.JPG) |
+| `baku-olympic-stadium-2.jpg` | Eminn | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Baku_Olympic_Stadium.JPG) |
+
+## Air Albania Stadium  `air-albania-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `air-albania-stadium-0.jpg` | Albinfo | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Air_Albania_Stadium_close.jpg) |
+| `air-albania-stadium-1.jpg` | BBB2021 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Air_Albania_Stadium_2024.jpg) |
+| `air-albania-stadium-2.jpg` | BBB2021 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Air_Albania_Stadium.jpg) |
+
+## Toše Proeski Arena  `tose-proeski-arena`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `tose-proeski-arena-0.jpg` | kallerna | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:To%C5%A1e_Proeski_Arena_1.jpg) |
+| `tose-proeski-arena-1.jpg` | kallerna | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:To%C5%A1e_Proeski_Arena_2.jpg) |
+| `tose-proeski-arena-2.jpg` | Diego Delso | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Estadio_Filip_II,_Skopie,_Macedonia,_2014-04-16,_DD_61.JPG) |
+
+## Principality Stadium  `principality-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `principality-stadium-0.jpg` | Dominic Nelson | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Principality_Stadium_view_from_Westgate_Street,_Cardiff.jpg) |
+| `principality-stadium-1.jpg` | mattbuck (category) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Millennium_Stadium_support_stanchion.jpg) |
+| `principality-stadium-2.jpg` | mattbuck (category) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Cardiff_MMB_31_Millennium_Stadium.jpg) |
+
+## Windsor Park  `windsor-park`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `windsor-park-0.jpg` | Citizen69 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Windsor_Park_redevelopment_.jpg) |
+| `windsor-park-1.jpg` | Fasach Nua at English Wikipedia | [Public domain](#) | [Commons](https://commons.wikimedia.org/wiki/File:Windsor_Park_football_stadium_-_Empty.JPG) |
+| `windsor-park-2.jpg` | Simon Burchell | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Windsor_Park_Stadium,_Belfast_06.jpg) |
+
+## Astana Arena  `astana-arena`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `astana-arena-0.jpg` | Satkangulov | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:2013_Kazakhstan_Super_Cup_on_Astana_Arena.jpg) |
+| `astana-arena-1.jpg` | ChelseaFunNumberOne | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Astana_Arena_(inside_interior).JPG) |
+| `astana-arena-2.jpg` | Satkangulov | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Astana_Arena_2013-10-24_21.50.34.JPG) |
+
+## Sapporo Dome  `sapporo-dome`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `sapporo-dome-0.jpg` | Own | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Sapporo_Dome.jpg) |
+| `sapporo-dome-1.jpg` | ezorisu | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Sapporo_dome_tembodai.jpg) |
+| `sapporo-dome-2.jpeg` | European Space Agency | [Attribution](#) | [Commons](https://commons.wikimedia.org/wiki/File:Sapporo_Dome,_Japan_ESA23242489.jpeg) |
+
+## Suwon World Cup Stadium  `suwon-world-cup-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `suwon-world-cup-stadium-0.jpg` | Realidad y Illusion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Suwon_world_cup.JPG) |
+| `suwon-world-cup-stadium-1.jpg` | Jpbarrass at English Wikipedia | [Public domain](#) | [Commons](https://commons.wikimedia.org/wiki/File:Suwon_World_Cup_Stadium_from_outside.jpg) |
+| `suwon-world-cup-stadium-2.jpg` | Jpbarrass at English Wikipedia | [Public domain](#) | [Commons](https://commons.wikimedia.org/wiki/File:Suwon_World_Cup_Stadium_from_outside_(cropped).jpg) |
+
+## Busan Asiad Stadium  `busan-asiad-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `busan-asiad-stadium-0.jpg` | 애콜라이트 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:BusanAsiadStadium.jpg) |
+| `busan-asiad-stadium-1.png` | Cameron Henderson | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Dongnae_District_in_Busan.png) |
+| `busan-asiad-stadium-2.jpg` | Hanu00 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Busanasiadmainstadium_2019EAFF.jpg) |
+
+## Daegu Stadium  `daegu-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `daegu-stadium-0.jpg` | ko:user:Av3037 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Daegu_Stadium.JPG) |
+| `daegu-stadium-1.jpg` | Haena96 | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Daegu_Stadium_exterior.jpg) |
+| `daegu-stadium-2.jpg` | Haena96 | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Daegu_Stadium_internal.jpg) |
+
+## Olympiastadion Berlin  `olympiastadion-berlin`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `olympiastadion-berlin-0.jpg` | Jan Künzel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Olympiastadion_Berlin_Innenansicht.jpg) |
+| `olympiastadion-berlin-1.jpg` | Tobi 87 | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Berliner_Olympiastadion_night.jpg) |
+| `olympiastadion-berlin-2.jpg` | Thomas Wolf, www.foto-tw.de | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Olympiastadion_Berlin_2015.jpg) |
+
+## Volksparkstadion  `volksparkstadion`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `volksparkstadion-0.jpg` | Mario Klassen marioklassen | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Well_lit_soccer_stadium_(Unsplash).jpg) |
+| `volksparkstadion-1.jpg` | Reinhard Kraasch | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:RK_1009_9831_Volksparkstadion.jpg) |
+| `volksparkstadion-2.jpg` | Daniel from Glasgow, United Kingdom | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Volksparkstadion,_Hamburg_(31534061718).jpg) |
+
+## RheinEnergieStadion  `rheinenergiestadion`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `rheinenergiestadion-0.jpg` | CEphoto, Uwe Aranas | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Cologne-Germany_RheinEnergieStadion-07.jpg) |
+| `rheinenergiestadion-1.jpg` | CEphoto, Uwe Aranas | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Cologne-Germany_RheinEnergieStadion-02.jpg) |
+| `rheinenergiestadion-2.jpg` | Superbass | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:2022-02-27-Rheinenergiestadion_Ukraine-7794.jpg) |
+
+## Ellis Park Stadium  `ellis-park-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `ellis-park-stadium-0.jpg` | Leglo09 | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Ellis_Park_Stadium.jpg) |
+| `ellis-park-stadium-1.jpg` | Marcello Casal Jr/ABr | [CC BY 3.0 br](https://creativecommons.org/licenses/by/3.0/br/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Ellis_Park_Stadium_before_start_of_World_Cup_2010-06-03_2.jpg) |
+| `ellis-park-stadium-2.jpg` | Marcello Casal Jr/ABr | [CC BY 3.0 br](https://creativecommons.org/licenses/by/3.0/br/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Ellis_Park_Stadium_before_start_of_World_Cup_2010-06-03_1.jpg) |
+
+## Loftus Versfeld Stadium  `loftus-versfeld-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `loftus-versfeld-stadium-0.jpg` | legio09 | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Loftus_Versfeld_Stadium.jpg) |
+| `loftus-versfeld-stadium-1.jpg` | Nick Roux | [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0) | [Commons](https://commons.wikimedia.org/wiki/File:South_Africa-Stadium-Pretoria-Loftus_Versfeld01.jpg) |
+| `loftus-versfeld-stadium-2.jpg` | NJR ZA | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:South_Africa-Pretoria-Loftus_Versfeld001.jpg) |
+
+## Nelson Mandela Bay Stadium  `nelson-mandela-bay-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `nelson-mandela-bay-stadium-0.jpg` | Ngrund | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Nelson_Mandela_Stadium_in_Port_Elizabeth.jpg) |
+| `nelson-mandela-bay-stadium-1.jpg` | Ngrund | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Nelson_Mandela_Stadium_in_Port_Elizabeth_(cropped).jpg) |
+| `nelson-mandela-bay-stadium-2.jpg` | Ngrund (cropped by Ahmedd) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Nelson_Mandela_Bay_Stadium_-_Port_Elizabeth.jpg) |
+
+## Mbombela Stadium  `mbombela-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `mbombela-stadium-0.jpg` | Tadpolefarm | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Mbombela_Stadium_Aerial_View.jpg) |
+| `mbombela-stadium-1.jpg` | Martin Swart | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_2010_Italy_New_Zealand.jpg) |
+| `mbombela-stadium-2.jpg` | Tadpolefarm | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Mbombela_Stadium_arena.jpg) |
+
+## Arena Amazônia  `arena-amazonia`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `arena-amazonia-0.jpg` | Arne Müseler | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Arena_Amaz%C3%B4nia_Manaus.jpg) |
+| `arena-amazonia-1.jpg` | Gabriel Smith | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Arena_da_Amaz%C3%B4nia,_Manaus_em_2014.jpg) |
+| `arena-amazonia-2.jpg` | José Zamith | [CC BY 3.0 br](https://creativecommons.org/licenses/by/3.0/br/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Amazon_Arena,_Manaus,_Brazil.jpg) |
+
+## Arena Pantanal  `arena-pantanal`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `arena-pantanal-0.jpg` | Arne Müseler | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Arena_Pantanal.jpg) |
+| `arena-pantanal-1.jpg` | paulisson miura from Cuiabá, Brasil | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Trio_de_arbitragem_(Arena_Pantanal,_Cuiab%C3%A1,_MT,_Brasil)_(21209597890).jpg) |
+| `arena-pantanal-2.jpg` | paulisson miura from Cuiabá, Brasil | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Arena_Pantanal_(Cuiab%C3%A1,_MT,_Brasil)_(14500665598).jpg) |
+
+## Arena da Baixada  `arena-da-baixada`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `arena-da-baixada-0.jpg` | enioprado | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Arena_da_Baixada_-_panoramio.jpg) |
+| `arena-da-baixada-1.jpg` | enioprado | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_Joaquim_Am%C3%A9rico_-_panoramio.jpg) |
+| `arena-da-baixada-2.jpg` | Morio | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Kyocera_Arena_Curitiba_2006.jpg) |
+
+## Kazan Arena  `kazan-arena`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `kazan-arena-0.jpg` | A.Savin | [FAL](http://artlibre.org/licence/lal/en) | [Commons](https://commons.wikimedia.org/wiki/File:Kazan_Arena_08-2016.jpg) |
+| `kazan-arena-1.jpg` | A.Savin | [FAL](http://artlibre.org/licence/lal/en) | [Commons](https://commons.wikimedia.org/wiki/File:Kazan_view_from_Riviera_Hotel_08-2016_img2.jpg) |
+| `kazan-arena-2.jpg` | A.Savin | [FAL](http://artlibre.org/licence/lal/en) | [Commons](https://commons.wikimedia.org/wiki/File:Kazan_view_from_Riviera_Hotel_08-2016_img3.jpg) |
+
+## Fisht Olympic Stadium  `fisht-olympic-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `fisht-olympic-stadium-0.jpg` | SKas | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Fisht_Olympic_Stadium.jpg) |
+| `fisht-olympic-stadium-1.jpg` | Arne Müseler | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Sochi_adler_aerial_view_2018_23.jpg) |
+| `fisht-olympic-stadium-2.jpg` | Alexxx1979 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Sochi_Olympic_Park_Fisht_Olympic_Stadium_P5020324_2200.jpg) |
+
+## Nizhny Novgorod Stadium  `nizhny-novgorod-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `nizhny-novgorod-stadium-0.jpg` | A.Savin | [FAL](http://artlibre.org/licence/lal/en) | [Commons](https://commons.wikimedia.org/wiki/File:Nizhny_Novgorod_Stadium_asv2019-05.jpg) |
+| `nizhny-novgorod-stadium-1.jpg` | Алексей Трефилов | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Nizhny_Novgorod_Stadium_04-2019_01.jpg) |
+| `nizhny-novgorod-stadium-2.jpg` | Алексей Трефилов | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Nizhny_Novgorod_Stadium_04.jpg) |
+
+## Rostov Arena  `rostov-arena`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `rostov-arena-0.jpg` | Vyacheslav Argenberg | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Rostov_Arena,_Rostov-on-Don,_Russia.jpg) |
+| `rostov-arena-1.jpg` | Vyacheslav Argenberg | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Rostov_Arena,_Football_stadium,_Rostov-on-Don,_Russia.jpg) |
+| `rostov-arena-2.jpg` | Alexxx1979 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Rostov-on-Don._Don_River._Rostov_Arena_P9161461_2350.jpg) |
+
+## Al Bayt Stadium  `al-bayt-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `al-bayt-stadium-0.jpg` | Kabhi2011 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Al_Bayt_Stadium.jpg) |
+| `al-bayt-stadium-1.jpg` | bobbyqat @ Mapillary.com | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Al_Khor_Coastal_Road_in_Al_Heedan.jpg) |
+| `al-bayt-stadium-2.png` | RaviNevi VIBES | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:View_of_the_fountain_at_Al_Bayt_Stadium_Park.png) |
+
+## Education City Stadium  `education-city-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `education-city-stadium-0.jpg` | Staff Sgt. Bethany La Ville | [Public domain](#) | [Commons](https://commons.wikimedia.org/wiki/File:Aerial_view_of_Education_City_Stadium_and_Oxygen_Park_in_Al_Rayyan_(New_Al_Rayyan).jpg) |
+| `education-city-stadium-1.jpg` | Staff Sgt. Bethany La Ville | [Public domain](#) | [Commons](https://commons.wikimedia.org/wiki/File:Aerial_view_of_Education_City_Stadium_and_Oxygen_Park_in_Al_Rayyan.jpg) |
+| `education-city-stadium-2.jpg` | Staff Sgt. Bethany La Ville | [Public domain](#) | [Commons](https://commons.wikimedia.org/wiki/File:Aerial_view_of_Education_City_Stadium_and_Oxygen_Park_in_Al_Rayyan_(Fereej_Al_Zaeem).jpg) |
+
+## Khalifa International Stadium  `khalifa-international-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `khalifa-international-stadium-0.jpg` | D@LY3D from Qatar, Doha | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_(3580966927).jpg) |
+| `khalifa-international-stadium-1.jpg` | daly3d abd from Qatar, Doha | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Khalifa_International_Stadium_interior_night_2009_Emir_Cup.jpg) |
+| `khalifa-international-stadium-2.jpg` | Hanson K Joseph | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Hanson_K_Joseph_Khalifa_Stadium.jpg) |
+
+## Stadium 974  `stadium-974`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `stadium-974-0.jpg` | ArmieVas | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:974_stadium.jpg) |
+| `stadium-974-1.jpg` | ArmieVas | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Ras_Aboud_Stadium_in_Qatar.jpg) |
+| `stadium-974-2.jpg` | ArmieVas | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Stadium_in_dohA.jpg) |
+
+## Al Janoub Stadium  `al-janoub-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `al-janoub-stadium-0.jpg` | Palácio do Planalto from Brasilia, Brasil | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:28_10_2019_Visita_ao_est%C3%A1dio_de_futebol_Al_Janoub_(48977932316).jpg) |
+| `al-janoub-stadium-1.jpg` | Palácio do Planalto | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Visita_ao_est%C3%A1dio_de_futebol_Al_Janoub_1.jpg) |
+| `al-janoub-stadium-2.jpg` | Palácio do Planalto from Brasilia, Brasil | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:28_10_2019_Visita_ao_est%C3%A1dio_de_futebol_Al_Janoub_(48977359873).jpg) |
+
+## Al Thumama Stadium  `al-thumama-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `al-thumama-stadium-0.jpg` | Adnen1985 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:2022_FIFA_World_Cup_at_Al_Thumama_Stadium.jpg) |
+| `al-thumama-stadium-1.jpg` | En.saravanan | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Al_Thumama_Stadium_1.jpg) |

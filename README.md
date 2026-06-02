@@ -2,7 +2,7 @@
 
 Image assets for the **Stadium Passport** mobile app.
 
-- **916** stadium photos across **306** stadiums.
+- **1173** stadium photos across **392** stadiums.
 - All images sourced from [Wikimedia Commons](https://commons.wikimedia.org/), under free / open licenses.
 - See [`CREDITS.md`](./CREDITS.md) and [`credits.json`](./credits.json) for per-image attribution.
 

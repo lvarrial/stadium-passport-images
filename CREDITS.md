@@ -3130,3 +3130,58 @@ _Generated automatically — do not edit by hand._
 |------|--------|---------|--------|
 | `al-thumama-stadium-0.jpg` | Adnen1985 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:2022_FIFA_World_Cup_at_Al_Thumama_Stadium.jpg) |
 | `al-thumama-stadium-1.jpg` | En.saravanan | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Al_Thumama_Stadium_1.jpg) |
+
+## Hill Dickinson Stadium  `hill-dickinson-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `hill-dickinson-stadium-0.jpg` | Everton FC | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Hilldickinsonstadium.jpg) |
+| `hill-dickinson-stadium-1.jpg` | Tomsk Toffee | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Hill_Dickinson_Stadium_2026_1.jpg) |
+| `hill-dickinson-stadium-2.jpg` | RoyalBlueStuey | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Hill_Dickinson_Stadium_Exterior.jpg) |
+
+## Stadio Benito Stirpe  `stadio-benito-stirpe`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `stadio-benito-stirpe-0.jpg` | Arch. Enrico Renzi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Stadio_Benito_Stirpe_dall_alto.JPG) |
+| `stadio-benito-stirpe-1.jpg` | Simone Perciballi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Benito_Stirpe_panoramica_Frosinone_Foggia.JPG) |
+| `stadio-benito-stirpe-2.jpg` | Simone Vacca (SEKAM) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Stadio_Benito_Stirpe_in_notturna.JPG) |
+
+## Ursapharm-Arena an der Kaiserlinde  `ursapharm-arena-kaiserlinde`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `ursapharm-arena-kaiserlinde-0.jpg` | MüllerFrankElversberg | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:UrsapharmArena.jpg) |
+| `ursapharm-arena-kaiserlinde-1.jpg` | MüllerFrankElversberg | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Ursapharm-Arena.jpg) |
+| `ursapharm-arena-kaiserlinde-2.jpg` | RoBri | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Kaiserlinde_Elversberg_Neue_HT.jpg) |
+
+## Home Deluxe Arena  `home-deluxe-arena`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `home-deluxe-arena-0.jpg` | SW1907 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Benteler-Arena_Paderborn_von_oben_2015.jpg) |
+| `home-deluxe-arena-1.jpg` | Ungry Young Man from Vienna, Austria | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Benteler-Arena_(17107125877).jpg) |
+| `home-deluxe-arena-2.jpg` | SW1907 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Benteler_Arena_Westansicht.jpg) |
+
+## Stade Marie-Marvingt  `stade-marie-marvingt`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `stade-marie-marvingt-0.jpg` | Broken72 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Le_mans_fc_laval.jpg) |
+| `stade-marie-marvingt-1.jpg` | OldLion | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Stade_le_mans.jpg) |
+
+## Stade Jean-Bouin  `stade-jean-bouin`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `stade-jean-bouin-0.jpg` | Arne Müseler | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Paris_Stade_Jean-Bouin.jpg) |
+| `stade-jean-bouin-1.jpg` | Chabe01 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Stade_Jean_Bouin_-_Paris_XVI_(FR75)_-_2021-12-05_-_1.jpg) |
+| `stade-jean-bouin-2.jpg` | Zakarie Faibis | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Paris_FC_Jean_bouin_01.jpg) |
+
+## Stade de l'Aube  `stade-de-l-aube`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `stade-de-l-aube-0.jpg` | Chabe01 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Stade_Aube_-_Troyes_(FR10)_-_2026-02-27_-_1.jpg) |
+| `stade-de-l-aube-1.jpg` | TaraO | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [Commons](https://commons.wikimedia.org/wiki/File:Stade_de_l%27Aube.jpg) |
+| `stade-de-l-aube-2.jpg` | User:GodOfKittens | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Stade_de_L%27Aube.jpeg) |

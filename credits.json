@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T14:52:29.610Z",
+  "generatedAt": "2026-08-21T12:26:58.610551Z",
   "images": {
     "camp-nou-0.jpg": {
       "stadiumId": "camp-nou",
@@ -12869,6 +12869,226 @@
       "author": "Rémih",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true"
+    },
+    "hill-dickinson-stadium-0.jpg": {
+      "stadiumId": "hill-dickinson-stadium",
+      "stadiumName": "Hill Dickinson Stadium",
+      "index": 0,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hilldickinsonstadium.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Hilldickinsonstadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Everton FC",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true"
+    },
+    "hill-dickinson-stadium-1.jpg": {
+      "stadiumId": "hill-dickinson-stadium",
+      "stadiumName": "Hill Dickinson Stadium",
+      "index": 1,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hill_Dickinson_Stadium_2026_1.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hill_Dickinson_Stadium_2026_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Tomsk Toffee",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true"
+    },
+    "hill-dickinson-stadium-2.jpg": {
+      "stadiumId": "hill-dickinson-stadium",
+      "stadiumName": "Hill Dickinson Stadium",
+      "index": 2,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hill_Dickinson_Stadium_Exterior.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Hill_Dickinson_Stadium_Exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "RoyalBlueStuey",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attributionRequired": "false"
+    },
+    "stadio-benito-stirpe-0.jpg": {
+      "stadiumId": "stadio-benito-stirpe",
+      "stadiumName": "Stadio Benito Stirpe",
+      "index": 0,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stadio_Benito_Stirpe_dall_alto.JPG",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Stadio_Benito_Stirpe_dall_alto.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Arch. Enrico Renzi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true"
+    },
+    "stadio-benito-stirpe-1.jpg": {
+      "stadiumId": "stadio-benito-stirpe",
+      "stadiumName": "Stadio Benito Stirpe",
+      "index": 1,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Benito_Stirpe_panoramica_Frosinone_Foggia.JPG",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Benito_Stirpe_panoramica_Frosinone_Foggia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Simone Perciballi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true"
+    },
+    "stadio-benito-stirpe-2.jpg": {
+      "stadiumId": "stadio-benito-stirpe",
+      "stadiumName": "Stadio Benito Stirpe",
+      "index": 2,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stadio_Benito_Stirpe_in_notturna.JPG",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Stadio_Benito_Stirpe_in_notturna.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Simone Vacca (SEKAM)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true"
+    },
+    "ursapharm-arena-kaiserlinde-0.jpg": {
+      "stadiumId": "ursapharm-arena-kaiserlinde",
+      "stadiumName": "Ursapharm-Arena an der Kaiserlinde",
+      "index": 0,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:UrsapharmArena.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/UrsapharmArena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "MüllerFrankElversberg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true"
+    },
+    "ursapharm-arena-kaiserlinde-1.jpg": {
+      "stadiumId": "ursapharm-arena-kaiserlinde",
+      "stadiumName": "Ursapharm-Arena an der Kaiserlinde",
+      "index": 1,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ursapharm-Arena.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ursapharm-Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "MüllerFrankElversberg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true"
+    },
+    "ursapharm-arena-kaiserlinde-2.jpg": {
+      "stadiumId": "ursapharm-arena-kaiserlinde",
+      "stadiumName": "Ursapharm-Arena an der Kaiserlinde",
+      "index": 2,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiserlinde_Elversberg_Neue_HT.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Kaiserlinde_Elversberg_Neue_HT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "RoBri",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true"
+    },
+    "home-deluxe-arena-0.jpg": {
+      "stadiumId": "home-deluxe-arena",
+      "stadiumName": "Home Deluxe Arena",
+      "index": 0,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Benteler-Arena_Paderborn_von_oben_2015.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Benteler-Arena_Paderborn_von_oben_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "SW1907",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true"
+    },
+    "home-deluxe-arena-1.jpg": {
+      "stadiumId": "home-deluxe-arena",
+      "stadiumName": "Home Deluxe Arena",
+      "index": 1,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Benteler-Arena_(17107125877).jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Benteler-Arena_%2817107125877%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Ungry Young Man from Vienna, Austria",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attributionRequired": "true"
+    },
+    "home-deluxe-arena-2.jpg": {
+      "stadiumId": "home-deluxe-arena",
+      "stadiumName": "Home Deluxe Arena",
+      "index": 2,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Benteler_Arena_Westansicht.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Benteler_Arena_Westansicht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "SW1907",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true"
+    },
+    "stade-marie-marvingt-0.jpg": {
+      "stadiumId": "stade-marie-marvingt",
+      "stadiumName": "Stade Marie-Marvingt",
+      "index": 0,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_mans_fc_laval.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Le_mans_fc_laval.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Broken72",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attributionRequired": "true"
+    },
+    "stade-marie-marvingt-1.jpg": {
+      "stadiumId": "stade-marie-marvingt",
+      "stadiumName": "Stade Marie-Marvingt",
+      "index": 1,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stade_le_mans.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Stade_le_mans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "OldLion",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true"
+    },
+    "stade-jean-bouin-0.jpg": {
+      "stadiumId": "stade-jean-bouin",
+      "stadiumName": "Stade Jean-Bouin",
+      "index": 0,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paris_Stade_Jean-Bouin.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Paris_Stade_Jean-Bouin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Arne Müseler",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "attributionRequired": "true"
+    },
+    "stade-jean-bouin-1.jpg": {
+      "stadiumId": "stade-jean-bouin",
+      "stadiumName": "Stade Jean-Bouin",
+      "index": 1,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stade_Jean_Bouin_-_Paris_XVI_(FR75)_-_2021-12-05_-_1.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Stade_Jean_Bouin_-_Paris_XVI_%28FR75%29_-_2021-12-05_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true"
+    },
+    "stade-jean-bouin-2.jpg": {
+      "stadiumId": "stade-jean-bouin",
+      "stadiumName": "Stade Jean-Bouin",
+      "index": 2,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paris_FC_Jean_bouin_01.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Paris_FC_Jean_bouin_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Zakarie Faibis",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true"
+    },
+    "stade-de-l-aube-0.jpg": {
+      "stadiumId": "stade-de-l-aube",
+      "stadiumName": "Stade de l'Aube",
+      "index": 0,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stade_Aube_-_Troyes_(FR10)_-_2026-02-27_-_1.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Stade_Aube_-_Troyes_%28FR10%29_-_2026-02-27_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true"
+    },
+    "stade-de-l-aube-1.jpg": {
+      "stadiumId": "stade-de-l-aube",
+      "stadiumName": "Stade de l'Aube",
+      "index": 1,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stade_de_l%27Aube.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Stade_de_l%27Aube.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "TaraO",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "attributionRequired": "true"
+    },
+    "stade-de-l-aube-2.jpg": {
+      "stadiumId": "stade-de-l-aube",
+      "stadiumName": "Stade de l'Aube",
+      "index": 2,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stade_de_L%27Aube.jpeg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Stade_de_L%27Aube.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "User:GodOfKittens",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "attributionRequired": "true"
     }
   }

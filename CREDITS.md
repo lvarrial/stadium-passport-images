@@ -3185,3 +3185,43 @@ _Generated automatically — do not edit by hand._
 | `stade-de-l-aube-0.jpg` | Chabe01 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Stade_Aube_-_Troyes_(FR10)_-_2026-02-27_-_1.jpg) |
 | `stade-de-l-aube-1.jpg` | TaraO | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [Commons](https://commons.wikimedia.org/wiki/File:Stade_de_l%27Aube.jpg) |
 | `stade-de-l-aube-2.jpg` | User:GodOfKittens | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Stade_de_L%27Aube.jpeg) |
+
+## Toughsheet Community Stadium  `toughsheet-community-stadium`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `toughsheet-community-stadium-0.jpg` | Steve Daniels <span class="mw-valign-text-top noprint" typeof="mw:F | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AThe_University_of_Bolton_Stadium_-_geograph.org.uk_-_6280134.jpg) |
+| `toughsheet-community-stadium-1.jpg` | Mark Hammond from London, England | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AReebokstadium_inside.jpg) |
+| `toughsheet-community-stadium-2.jpg` | Steve Daniels <span class="mw-valign-text-top noprint" typeof="mw:F | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AThe_Nat_Lofthouse_Stand_at_the_University_of_Bolton_Stadium_-_geograph.org.uk_-_6280166.jpg) |
+
+## Sincil Bank  `sincil-bank`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `sincil-bank-0.jpg` | <a href="//commons.wikimedia.org/w/index.php?title=User:Softwareeurope&amp;action=edit&amp;redlink=1" class="new" title="User:Softwareeurope (page does not exis | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASincil_Bank_Stadium.jpeg) |
+| `sincil-bank-1.jpg` | Steve Daniels <span class="mw-valign-text-top noprint" typeof="mw:F | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AThe_LNER_Stadium_by_Sincil_Bank_-_geograph.org.uk_-_6613360.jpg) |
+| `sincil-bank-2.jpg` | Ian S <span class="mw-valign-text-top noprint" typeof="mw:File/Fram | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASincil_Bank_Football_Stadium%2C_Lincoln_-_geograph.org.uk_-_5847180.jpg) |
+
+## St Andrew's  `st-andrews`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `st-andrews-0.jpg` | Bruker:TuborgLight | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File%3ATiltonRoadEnd01.JPG) |
+| `st-andrews-1.jpg` | Flippo | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ASt_Andrew%27s_-_panoramio.jpg) |
+| `st-andrews-2.jpg` | Struway</a | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AStAndrew%27s_Kop_Stand.jpg) |
+
+## The Valley  `the-valley`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `the-valley-0.jpg` | dom fellowes from UK | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AThe_Valley_22_August_2015.jpg) |
+| `the-valley-1.jpg` | <a href="//commons.wikimedia.org/w/index.php?title=User:FromMorningToMidnight&amp;action=edit&amp;redlink=1" class="new" title="User:FromMorningToMidnight (page | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ACharlton_Athletic_vs._Norwich_City_%282022%29.jpg) |
+| `the-valley-2.jpg` | Marathon <span class="mw-valign-text-top noprint" typeof="mw:File/F | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Commons](https://commons.wikimedia.org/wiki/File%3AThe_Valley_-_home_of_Charlton_Athletic_-_geograph.org.uk_-_4293184.jpg) |
+
+## Racecourse Ground  `racecourse-ground`
+
+| File | Author | License | Source |
+|------|--------|---------|--------|
+| `racecourse-ground-0.jpg` | Rhyswynne | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Cymru_v_Sbaen_2026.jpg) |
+| `racecourse-ground-1.jpg` | John Lord | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Racecourse_Ground,_Wrexham_(49328755543).jpg) |
+| `racecourse-ground-2.jpg` | Rept0n1x | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File%3ARacecourse_Ground%2C_Wrexham_%282%29.JPG) |

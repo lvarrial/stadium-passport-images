@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T12:26:58.610551Z",
+  "generatedAt": "2026-08-21T14:26:26.745325Z",
   "images": {
     "camp-nou-0.jpg": {
       "stadiumId": "camp-nou",
@@ -13087,6 +13087,171 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stade_de_L%27Aube.jpeg",
       "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Stade_de_L%27Aube.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "author": "User:GodOfKittens",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attributionRequired": "true"
+    },
+    "toughsheet-community-stadium-0.jpg": {
+      "stadiumId": "toughsheet-community-stadium",
+      "stadiumName": "Toughsheet Community Stadium",
+      "index": 0,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AThe_University_of_Bolton_Stadium_-_geograph.org.uk_-_6280134.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/The_University_of_Bolton_Stadium_-_geograph.org.uk_-_6280134.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Steve Daniels <span class=\"mw-valign-text-top noprint\" typeof=\"mw:F",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attributionRequired": "true"
+    },
+    "toughsheet-community-stadium-1.jpg": {
+      "stadiumId": "toughsheet-community-stadium",
+      "stadiumName": "Toughsheet Community Stadium",
+      "index": 1,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AReebokstadium_inside.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Reebokstadium_inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Mark Hammond from London, England",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attributionRequired": "true"
+    },
+    "toughsheet-community-stadium-2.jpg": {
+      "stadiumId": "toughsheet-community-stadium",
+      "stadiumName": "Toughsheet Community Stadium",
+      "index": 2,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Nat_Lofthouse_Stand_at_the_University_of_Bolton_Stadium_-_geograph.org.uk_-_6280166.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/The_Nat_Lofthouse_Stand_at_the_University_of_Bolton_Stadium_-_geograph.org.uk_-_6280166.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Steve Daniels <span class=\"mw-valign-text-top noprint\" typeof=\"mw:F",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attributionRequired": "true"
+    },
+    "sincil-bank-0.jpg": {
+      "stadiumId": "sincil-bank",
+      "stadiumName": "Sincil Bank",
+      "index": 0,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASincil_Bank_Stadium.jpeg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sincil_Bank_Stadium.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Softwareeurope&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Softwareeurope (page does not exis",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true"
+    },
+    "sincil-bank-1.jpg": {
+      "stadiumId": "sincil-bank",
+      "stadiumName": "Sincil Bank",
+      "index": 1,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AThe_LNER_Stadium_by_Sincil_Bank_-_geograph.org.uk_-_6613360.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/The_LNER_Stadium_by_Sincil_Bank_-_geograph.org.uk_-_6613360.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Steve Daniels <span class=\"mw-valign-text-top noprint\" typeof=\"mw:F",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attributionRequired": "true"
+    },
+    "sincil-bank-2.jpg": {
+      "stadiumId": "sincil-bank",
+      "stadiumName": "Sincil Bank",
+      "index": 2,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASincil_Bank_Football_Stadium%2C_Lincoln_-_geograph.org.uk_-_5847180.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Sincil_Bank_Football_Stadium%2C_Lincoln_-_geograph.org.uk_-_5847180.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Ian S <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Fram",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attributionRequired": "true"
+    },
+    "st-andrews-0.jpg": {
+      "stadiumId": "st-andrews",
+      "stadiumName": "St Andrew's",
+      "index": 0,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATiltonRoadEnd01.JPG",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/TiltonRoadEnd01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Bruker:TuborgLight",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attributionRequired": "true"
+    },
+    "st-andrews-1.jpg": {
+      "stadiumId": "st-andrews",
+      "stadiumName": "St Andrew's",
+      "index": 1,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASt_Andrew%27s_-_panoramio.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/St_Andrew%27s_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Flippo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attributionRequired": "true"
+    },
+    "st-andrews-2.jpg": {
+      "stadiumId": "st-andrews",
+      "stadiumName": "St Andrew's",
+      "index": 2,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AStAndrew%27s_Kop_Stand.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/StAndrew%27s_Kop_Stand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Struway</a",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attributionRequired": "true"
+    },
+    "the-valley-0.jpg": {
+      "stadiumId": "the-valley",
+      "stadiumName": "The Valley",
+      "index": 0,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Valley_22_August_2015.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/The_Valley_22_August_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "dom fellowes from UK",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attributionRequired": "true"
+    },
+    "the-valley-1.jpg": {
+      "stadiumId": "the-valley",
+      "stadiumName": "The Valley",
+      "index": 1,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACharlton_Athletic_vs._Norwich_City_%282022%29.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Charlton_Athletic_vs._Norwich_City_%282022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:FromMorningToMidnight&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:FromMorningToMidnight (page",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": "true"
+    },
+    "the-valley-2.jpg": {
+      "stadiumId": "the-valley",
+      "stadiumName": "The Valley",
+      "index": 2,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Valley_-_home_of_Charlton_Athletic_-_geograph.org.uk_-_4293184.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/The_Valley_-_home_of_Charlton_Athletic_-_geograph.org.uk_-_4293184.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Marathon <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/F",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attributionRequired": "true"
+    },
+    "racecourse-ground-0.jpg": {
+      "stadiumId": "racecourse-ground",
+      "stadiumName": "Racecourse Ground",
+      "index": 0,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cymru_v_Sbaen_2026.jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Cymru_v_Sbaen_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Rhyswynne",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attributionRequired": "false"
+    },
+    "racecourse-ground-1.jpg": {
+      "stadiumId": "racecourse-ground",
+      "stadiumName": "Racecourse Ground",
+      "index": 1,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Racecourse_Ground,_Wrexham_(49328755543).jpg",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Racecourse_Ground%2C_Wrexham_%2849328755543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "John Lord",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attributionRequired": "true"
+    },
+    "racecourse-ground-2.jpg": {
+      "stadiumId": "racecourse-ground",
+      "stadiumName": "Racecourse Ground",
+      "index": 2,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ARacecourse_Ground%2C_Wrexham_%282%29.JPG",
+      "originalCommonsUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Racecourse_Ground%2C_Wrexham_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Rept0n1x",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "attributionRequired": "true"
